@@ -1,0 +1,4 @@
+C:/Users/User/Desktop/Формалки/dfa2re/CMakeFiles/dfa2re.dir
+C:/Users/User/Desktop/Формалки/dfa2re/CMakeFiles/INSTALL.dir
+C:/Users/User/Desktop/Формалки/dfa2re/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Desktop/Формалки/dfa2re/CMakeFiles/ZERO_CHECK.dir
